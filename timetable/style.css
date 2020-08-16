@@ -1,0 +1,40 @@
+body{
+    color: white;
+}
+.timetable {
+    margin: 25px 0;
+    
+
+}
+
+.timetable th
+{
+    background-color: #1273c7;
+    text-align: center;
+    
+}
+  
+.A .text{
+    background: rgb(25,113,99);
+    background: linear-gradient(83deg, rgba(25,113,99,1) 0%, rgba(21,132,103,1) 100%);
+    border-style: none; 
+}
+.A .icon {
+    width: 250px;
+    background-color:   #065446;
+    border-style: none;
+}
+
+
+.timetable th, td {
+        height: 75px;
+        width: 2000px;
+        font-size: 16px;
+     }
+
+.inner td{
+        text-align: center;
+}
+.inner{
+    border-collapse: collapse;
+}
