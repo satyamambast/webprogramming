@@ -13,7 +13,8 @@ body{
     text-align: center;
     
 }
-  
+
+
 .A .text{
     background: rgb(25,113,99);
     background: linear-gradient(83deg, rgba(25,113,99,1) 0%, rgba(21,132,103,1) 100%);
@@ -21,6 +22,7 @@ body{
 }
 .A .icon {
     width: 250px;
+    max-width: 250px;
     background-color:   #065446;
     border-style: none;
 }
@@ -37,4 +39,9 @@ body{
 }
 .inner{
     border-collapse: collapse;
+}
+.break
+{
+    background: rgb(162,161,161);
+    background: linear-gradient(83deg, rgba(162,161,161,1) 0%, rgba(204,204,204,1) 100%); 
 }
