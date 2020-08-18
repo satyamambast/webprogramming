@@ -12,7 +12,7 @@ body{
 }
 .resume
 {
-    width: 75%;
+    width: 90%;
     background: #fff;
     margin: 25px auto;
     display: flex;
@@ -21,11 +21,11 @@ body{
 }
 .left {
     background: #ff6a00;
-    width: 350px;
+    width: 25%;
     padding: 0 20px;
 }
 .right {
-    width: calc(100% - 350px);
+    width: 75%;
 }
 .left .imsrc
 {
@@ -74,7 +74,7 @@ body{
     padding-right: 20px;
 }
 
-.contact .li_wrap {
+.li_wrap {
     /* width: 310px; */
     display: flex;
     justify-content: right;
