@@ -130,6 +130,7 @@ body{
 .exp_con{
     width: 400px;
     padding-left: 30px;
+    padding-top: 40px;
 
 }
 .mainheader{
@@ -156,7 +157,8 @@ body{
 
 }
 .entry{
-    margin-bottom: 50px;
+    margin-bottom: 80px;
+    margin-top: 20px;
 }
 .w3-border{
     max-width: 100px;
